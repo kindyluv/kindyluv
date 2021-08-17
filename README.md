@@ -1,5 +1,3 @@
- Hi there 👋
-
 <!--
 - 👋 Hi i'm Precious Amarachi Onyeukwu
 - ⚡ i'm interested in data analysis, machine language, software engineering and development
